@@ -1,3 +1,7 @@
+# Four Connect Game
+
+This was the final project for Artificial Intelligence course.
+
 "FourConnect," also known as "Connect Four," is a classic two-player connection game that involves strategy and critical thinking. The objective of the game is to be the first player to connect four of your own colored discs in a row, either horizontally, vertically, or diagonally, on a grid.
 
 Here's a brief introduction to the game:
