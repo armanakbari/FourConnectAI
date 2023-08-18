@@ -20,4 +20,6 @@ Here's a brief introduction to the game:
   The connection can be horizontal, vertical, or diagonal.
   If the grid fills up without either player achieving four in a row, the game is a draw.
 
+A brief report is provided in 'report.pdf'
+
 <img src="https://github.com/armanakbari/FourConnectAI/blob/main/setup.JPG">
