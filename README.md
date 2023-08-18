@@ -19,3 +19,5 @@ Here's a brief introduction to the game:
   The game is won when a player successfully connects four of their own colored discs in a row.
   The connection can be horizontal, vertical, or diagonal.
   If the grid fills up without either player achieving four in a row, the game is a draw.
+
+<img src="https://github.com/armanakbari/FourConnectAI/blob/main/setup.JPG">
